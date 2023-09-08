@@ -1,0 +1,26 @@
+.btn-primary{
+    background-color:#1f4037;
+    border-color:#1f4037;
+    
+}
+
+.btn-primary:hover{
+    background-color:#587e74;
+    border-color:#587e74;
+}
+
+.yazi,label{
+    text-shadow: 0px 6px 2px rgb(0, 0, 0);color:white;
+}
+
+body{
+ background: radial-gradient(circle, rgba(80,133,82,1) 0%, rgba(31,64,55,1) 100%);;
+}
+
+label{
+    color:white;
+}
+
+tr{
+    color:white;
+}
